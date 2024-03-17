@@ -80,7 +80,8 @@ h1{
     border-radius: .5rem;
     line-height: 2rem;
 }
-.preparation > h3{
+.preparation > p{
+    font-weight: var(--fw700);
     color: var(--darkRaspberry);
     margin-bottom: .5rem;
 }
